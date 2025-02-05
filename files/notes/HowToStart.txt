@@ -1,0 +1,17 @@
+How to start
+
+Website:
+- Open Terminal
+- type in "npm run dev"
+- Click on Link
+
+Database
+- Open Terminal
+- type in "cd backend"
+- type in "npm start"
+- Open up SQL file
+- Run SQL file and reload
+- Reload browser page
+
+Test Case
+- TBD
